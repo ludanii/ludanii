@@ -1,13 +1,12 @@
 # 👋 Olá, eu sou a Luisa Danielle!
 
-<div align="center">
 
+<div align="center">
+  
 Desenvolvedora Full Stack | Especialista em Java • APIs REST • React • Arquitetura Limpa  
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ludanii&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludanii&layout=compact&theme=cobalt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisa-danielle-663126274)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ludanielle2005@hotmail.com)
 
 </div>
 
